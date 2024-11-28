@@ -9,12 +9,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // 수정 siyeon 배고파요..ㅜㅜ
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         // 안녕하세요. 승용이에요
     }
-
 
 }
 
